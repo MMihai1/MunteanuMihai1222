@@ -2,15 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.aplicatia8;
+package com.mycompany.aplicatia6;
 
  
 
 /**
  *
- * @author lidia
+ * @author Munteanu Mihai
  */
-public class Aplicatia8 {
+public class Aplicatia6 {
     
     public void sort(int arr[])
     {
@@ -76,7 +76,7 @@ public class Aplicatia8 {
         int N = arr.length;
  
         // Function call
-        Aplicatia8 ob = new Aplicatia8();
+        Aplicatia6 ob = new Aplicatia6();
         ob.sort(arr);
  
         System.out.println("Sorted array is");
