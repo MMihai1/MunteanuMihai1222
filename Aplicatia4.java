@@ -3,13 +3,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.mycompany.aplicatia5;
+package com.mycompany.aplicatia4;
 
 /**
  *
  * @author Mihai Munteanu
  */
-public class Aplicatia5 {
+public class Aplicatia4 {
   
     // Function to perform Ternary Search
     static int ternarySearch(int l, int r, int key, int ar[])
