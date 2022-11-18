@@ -3,13 +3,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.mycompany.aplicatia4;
+package com.mycompany.aplicatia3;
 
 /**
  *
  * @author Mihai Munteanu
  */
-public class Aplicatia4 {
+public class Aplicatia3 {
 
     int binarySearch(int arr[], int l, int r, int x)
     {
@@ -37,7 +37,7 @@ public class Aplicatia4 {
     // Driver method to test above.
     public static void main(String args[])
     {
-        Aplicatia4 ob = new Aplicatia4();
+        Aplicatia3 ob = new Aplicatia3();
         int arr[] = {2,3,4,10,40};
         int n = arr.length;
         int x = 10;
