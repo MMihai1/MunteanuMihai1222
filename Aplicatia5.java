@@ -1,12 +1,12 @@
 
-package com.mycompany.aplicatia6;
+package com.mycompany.aplicatia5;
 
 /**
  *
  * @author Mihai Munteanu
  */
  
-public class Aplicatia6{
+public class Aplicatia5{
     
     // Encrypts text using a shift od s
     public static StringBuffer encrypt(String text, int step)
